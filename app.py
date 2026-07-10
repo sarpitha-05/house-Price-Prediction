@@ -40,4 +40,3 @@ if st.button("Predict Price"):
         st.error("Prediction Error. Please check inputs.")
     else:
         st.success(f"Estimated House Price: {round(float(prediction[0]), 2)}")
-st
