@@ -110,17 +110,13 @@ streamlit run app.py
 
 ## 📸 Application Screenshots
 
-### 🏠 Home Page
-
-<img src="screenshots/home.png" width="700">
-
 ### 📊 Prediction Page
 
-<img src="screenshots/prediction.png" width="700">
+<img src="screenshots/prediction_input_form.png" width="700">
 
 ### 💰 Prediction Result
 
-<img src="screenshots/result.png" width="700">
+<img src="screenshots/prediction_result.png" width="700">
 
 ---
 
